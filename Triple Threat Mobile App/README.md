@@ -1,11 +1,3 @@
-
-  # Water Purification App
-
-  This is a code bundle for Water Purification App. The original project is available at https://www.figma.com/design/sOgtfShbeZWgymnMvqTVmr/Water-Purification-App.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+Run `npm i` to install dependencies.
+Run `npm run dev` to start development server.
   
